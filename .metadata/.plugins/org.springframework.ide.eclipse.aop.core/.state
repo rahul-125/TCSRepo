@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<aop-reference-model>
-<aop-project name="TCS-JAVA-JDBC-Template"/>
-<aop-project name="TCS-JDBC-Template"/>
-<aop-project name="demo-spring-core"/>
-<aop-project name="Demo-CRS-API"/>
-<aop-project name="Demo-Spring-Rest-StudentAPI"/>
-<aop-project name="Demo-Spring-Rest-Project"/>
-</aop-reference-model>

@@ -1,9 +1,0 @@
-1648019075971	Rename package 'com.tcs.demo'
-1648020851816	Encapsulate field 'customerAddress'
-1648020859938	Encapsulate field 'customerName'
-1648020908022	Encapsulate field 'customerId'
-1648088643410	Rename package 'com.tcs.Application'
-1648088686548	Rename package 'com.tcs.Dao'
-1648088726455	Rename package 'com.tcs.Model'
-1648088758992	Rename package 'com.tcs.Restcontroller'
-1648100752088	Move package
